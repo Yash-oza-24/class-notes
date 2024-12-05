@@ -23,7 +23,7 @@ import { motion } from "framer-motion";
 import dayjs from "dayjs";
 import * as pdfjsLib from "pdfjs-dist";
 
-axios.defaults.baseURL = "http://localhost:5100/api";
+axios.defaults.baseURL = "https://class-notes-j9yw.onrender.com/api";
 
 const { Meta } = Card;
 
