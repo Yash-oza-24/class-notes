@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import LoginPage from "../../Components/login";
+import LoginPage from "../../Components/Login";
 import ForgotPasswordPage from "../../Components/Forgotpassword";
 
 const Auth = () => {
