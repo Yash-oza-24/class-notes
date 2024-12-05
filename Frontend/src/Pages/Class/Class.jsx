@@ -476,7 +476,7 @@ const Class = () => {
                   <div className="relative">
                     {note.thumbnail ? (
                       <img
-                        src={note.thumbnail}
+                        src="https://img.freepik.com/premium-vector/google-sheets-logo_578229-309.jpg?ga=GA1.1.1116161684.1732954973&semt=ais_hybrid"
                         alt="PDF Thumbnail"
                         className="object-cover w-full h-40 rounded-t-lg"
                       />
