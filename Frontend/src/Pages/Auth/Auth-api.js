@@ -1,6 +1,6 @@
 import axios from "axios";
 
-export const base_url = "http://localhost:5100/api";
+export const base_url = "https://class-notes-j9yw.onrender.com/api";
 
 export const login = async (emailId, mobileNo, password) => {
   try {
